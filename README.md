@@ -16,6 +16,7 @@ cd eagle-eye-fusion-drone-detection
 pip install -r requirements.txt
 python demo_eagle_fusion.py      # synthetic 3‑sensor example
 
+```
 
 Author: Satya Mohit Rao Kamkanampati
 Email: saka4331@colorado.edu
