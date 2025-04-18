@@ -1,4 +1,4 @@
-# Project Eagle‑Eye Fusion 🦅
+# Project Eagle‑Eye Fusion 
 
 A proof‑of‑concept implementation that extends  
 **“Multi‑Sensor Fusion vs. Single‑Instrument Approaches for Drone Detection and Classification”**  
@@ -18,6 +18,6 @@ python demo_eagle_fusion.py      # synthetic 3‑sensor example
 
 ```
 
-Author: Satya Mohit Rao Kamkanampati
-Email: saka4331@colorado.edu
-Linkedin: https://www.linkedin.com/in/mohitraosatya/
+**Author: Satya Mohit Rao Kamkanampati
+**Email: saka4331@colorado.edu
+**Linkedin: https://www.linkedin.com/in/mohitraosatya/
